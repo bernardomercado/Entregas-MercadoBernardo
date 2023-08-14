@@ -1,0 +1,94 @@
+[
+    {
+      "title": "Shorts MMA",
+      "description": "Shorts de alta calidad para entrenamiento de MMA.",
+      "price": 29.99,
+      "thumbnail": "Sin imagen",
+      "code": "abc123",
+      "stock": 25,
+      "id": 1
+    },
+    {
+      "title": "Remera MMA",
+      "description": "Remera cómoda para tus sesiones de entrenamiento de MMA.",
+      "price": 19.99,
+      "thumbnail": "Sin imagen",
+      "code": "def456",
+      "stock": 20,
+      "id": 2
+    },
+    {
+      "title": "Buzo con capucha MMA",
+      "description": "Buzo con capucha ideal para mantenerte abrigado durante el entrenamiento.",
+      "price": 49.99,
+      "thumbnail": "Sin imagen",
+      "code": "ghi789",
+      "stock": 15,
+      "id": 3
+    },
+    {
+      "title": "Campera MMA",
+      "description": "Campera resistente al desgaste para tus entrenamientos de MMA.",
+      "price": 69.99,
+      "thumbnail": "Sin imagen",
+      "code": "jkl012",
+      "stock": 10,
+      "id": 4
+    },
+    {
+      "title": "Guantes de MMA",
+      "description": "Guantes profesionales para protegerte durante tus combates.",
+      "price": 39.99,
+      "thumbnail": "Sin imagen",
+      "code": "mno345",
+      "stock": 30,
+      "id": 5
+    },
+    {
+      "title": "Protector bucal",
+      "description": "Protector bucal de alta calidad para proteger tus dientes.",
+      "price": 9.99,
+      "thumbnail": "Sin imagen",
+      "code": "pqr678",
+      "stock": 50,
+      "id": 6
+    },
+    {
+      "title": "Pantalones de compresión",
+      "description": "Pantalones de compresión para mejorar tu rendimiento.",
+      "price": 24.99,
+      "thumbnail": "Sin imagen",
+      "code": "stu901",
+      "stock": 18,
+      "id": 7
+    },
+    {
+      "title": "Parches bordados MMA",
+      "description": "Parches bordados con diseños de MMA para personalizar tu equipo.",
+      "price": 5.99,
+      "thumbnail": "Sin imagen",
+      "code": "vwx234",
+      "stock": 40,
+      "id": 8
+    },
+    {
+      "title": "Shin guards",
+      "description": "Protectores de espinilleras duraderos para tus entrenamientos.",
+      "price": 34.99,
+      "thumbnail": "Sin imagen",
+      "code": "yz0123",
+      "stock": 22,
+      "id": 9
+    },
+    {
+      "title": "Mochila de entrenamiento",
+      "description": "Mochila resistente para llevar tu equipo de entrenamiento.",
+      "price": 39.99,
+      "thumbnail": "Sin imagen",
+      "code": "456abc",
+      "stock": 12,
+      "id": 10
+      
+    }
+]
+  
