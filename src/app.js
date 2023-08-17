@@ -1,8 +1,16 @@
-import express from 'express'
-import ProductManager from './productManager.js'
+import express from 'express';
+import ProductManager from './productManager.js';
+import { fileURLToPath } from 'url';
+import path from 'path';
 
-const app = express()
-const productManager = new ProductManager('./data/products.json')
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const app = express();
+
+// Construir la ruta absoluta al archivo 'products.json'
+const dataFilePath = path.resolve(__dirname, '../data/products.json');
+const productManager = new ProductManager(dataFilePath);
 
 app.get('/products', async (req, res) => {
     const result = await productManager.getProducts()
